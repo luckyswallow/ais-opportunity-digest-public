@@ -119,6 +119,9 @@ It does not access private systems without permission.
 
 Built as part of exploring AI-augmented workflows for information filtering.
 
+This repo demonstrates the architecture.
+A production version runs with private credentials.
+
 
 
 
